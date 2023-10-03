@@ -13,5 +13,9 @@
 ## Badges:
 ### GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dmoralis&show_icons=true&locale=en&layout=compact)
+
+### Commit Languages
 ![Commit Languages](https://github-readme-stats.vercel.app/api?username=dmoralis&show_icons=true&locale=en)
+
+### Commit Streak
 ![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmoralis)
