@@ -11,10 +11,11 @@
 
 ## Badges:
 
+#### GitHub Stat
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dmoralis&show_icons=true&locale=en&layout=compact)
 
-<h3> Commit Languages </h3>
+#### Commit Languages
 ![Commit Languages](https://github-readme-stats.vercel.app/api?username=dmoralis&show_icons=true&locale=en)
 
-<h3> Commit Streak </h3>
+#### Commit Streak
 ![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmoralis)
