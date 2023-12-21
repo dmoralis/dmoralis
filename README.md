@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dimosthenis Moralis
 
  Data enthusiast with interests in Data Engineering, Data Science, and ML Engineering
-<! Currently working on [Spotify ETL w/ Airflow and Docker](https://github.com/dmoralis/AirflowETLSpotifyProject) and [Weather ETL w/ Airflow, Linux and AWS](https://github.com/dmoralis/AirflowETLWeatherProject) >
+<!-- Currently working on [Spotify ETL w/ Airflow and Docker](https://github.com/dmoralis/AirflowETLSpotifyProject) and [Weather ETL w/ Airflow, Linux and AWS](https://github.com/dmoralis/AirflowETLWeatherProject) -->
 
 ## Connect with me
  [LinkedIn](https://linkedin.com/in/dimosthenis-moralis-1aaa6327b/)
